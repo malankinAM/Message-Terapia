@@ -128,7 +128,7 @@ input, button, select, textarea{
 /*==================== 5. TEXT DEFAULTS ====================*/
 .heading_text{
   font-size: clamp(2.2rem, 4vw, 3.7rem);
-  width: 100%;
+  width: 90%;
 }
 .sub_heading{
   font-size: 2.3rem;
